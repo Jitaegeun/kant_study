@@ -14,4 +14,12 @@ git add -A  #몽땅다??
 git commit -m "commit message..."
 
 
+``` push origin main
+
+```sh
+# git 로그 명령어
+
+git log
+git log --oneline
+git log --oneline --all
 ```
